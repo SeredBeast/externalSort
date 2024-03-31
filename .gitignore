@@ -1,0 +1,11 @@
+*.env
+.env
+.idea
+logs/
+.vscode
+chunks
+sorted_chunks
+full.txt
+single.txt
+source.txt
+main
